@@ -9,7 +9,7 @@
 - 👀 Actualmente estoy experimentando con modelos de clasificación y forecasting.  
   
 
-- 🌌 Me encuentro profundizando mi aprendizaje sobre machine learning, y aprendiendo Power BI y SQL.  
+- 🌌 Me encuentro profundizando mi aprendizaje sobre machine learning, Power BI y SQL.  
   
 
 - ⚡ Fun fact: machine learning is art. 
