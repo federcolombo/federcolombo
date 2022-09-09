@@ -1,9 +1,9 @@
 <div align="left">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 25%" />
 </div>  
   
 
-### <div align="center">Soy Fede, un joven Padawan de éste apasionante mundo del machine learning 🤖🚀</div>  
+### <div align="left">Soy Fede, un joven Padawan de éste apasionante mundo del machine learning 🤖🚀</div>  
   
 
 - 👀 Actualmente estoy experimentando con modelos de clasificación y forecasting.  
