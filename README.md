@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="left">Soy Fede, un joven Padawan de éste apasionante mundo del machine learning 🤖🚀</div>  
+### <div align="left">Soy un joven Padawan en éste apasionante mundo del machine learning 🤖🚀</div>  
   
 
 - 👀 Actualmente estoy experimentando con modelos de clasificación y forecasting.  
